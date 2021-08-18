@@ -1,0 +1,52 @@
+
+  h1 {
+    color: black;
+    font-family: verdana;
+    font-size: 400%;
+    font-style: bold;
+    text-align: center;
+  }
+  h2{
+    color: black;
+    font-size: 230%;
+    text-align: center;
+}
+
+hr{
+    color: black;
+    background-color: black;
+}
+  
+img{
+    display:block;
+    margin: 0 auto;
+    width: 70%;
+}
+p{
+    color: black;
+    text-align: center;
+    font-style: normal;
+}
+h3{
+    color: black;
+    text-align: center;
+    font-size: 180%;
+}
+h4{
+    color: black;
+    text-align: center;
+    font-size: 140%;
+}
+a{
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    
+}
+h5{
+    text-align: center;
+    color: black;
+    font-size: 120%;
+}
+
+  
